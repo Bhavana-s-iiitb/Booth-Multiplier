@@ -2,7 +2,8 @@
 //////////////////////////////////////////////////////////////////////////////////
 // Company: 
 // Engineer: 
-// 
+// Name: Bhavana S
+// Email: Bhavana.S@iiitb.ac.in
 // Create Date: 10/20/2024 11:24:05 AM
 // Design Name: Booth Multiplier
 // Module Name: booth
